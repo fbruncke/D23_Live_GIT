@@ -8,6 +8,8 @@ public class Main {
      */
     public static void doMagic()
     {
-        System.out.println("Fature branch");
+        System.out.println("My Fature branch");
+        System.out.println("Smart");
+
     }
 }
