@@ -3,4 +3,12 @@ public class Main {
         System.out.println("Hello GitHub!");
 
     }
+
+    /**
+     * Example
+     */
+    public static void doMagic()
+    {
+        System.out.println("Fature branch");
+    }
 }
